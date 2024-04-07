@@ -1,0 +1,12 @@
+.card-container {
+    margin: 50px auto;
+
+}
+
+.card{
+    background-color: orange;
+}
+
+.btn-outline-light {
+    margin: 10px;
+}

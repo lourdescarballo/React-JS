@@ -1,0 +1,25 @@
+.cart-container {
+    margin: 50px;
+}
+
+.cart-title, h2 {
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    color: orange;
+}
+
+.cart-item-image{
+    width: 200px;
+
+}
+
+.checkout-button{
+    color: orange;
+    background-color: black;
+    padding: 10px;
+}
+
+.checkout-button:hover{
+    color: white;
+}
